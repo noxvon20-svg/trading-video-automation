@@ -1,2 +1,4 @@
-# trading-video-automation
-Professional video processing and trading metrics dashboard for intraday VWAP strategy education content
+# Video Processing Automation and Trading Dashboard
+
+## Overview
+This project implements a video processing automation system and a trading dashboard.
